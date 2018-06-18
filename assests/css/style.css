@@ -1,0 +1,47 @@
+body 
+{
+    background-image: url("https://vignette.wikia.nocookie.net/heroesofthestorm/images/4/4a/Overwatch-logo.jpg/revision/latest?cb=20150531092156");
+}
+.p
+{
+    color:white;
+}
+.p1
+{
+    color: white;
+}
+.container
+{
+    width: 1124px;
+    height: 1124px;
+    margin: 220px;
+    margin-left: 415px;
+    border: solid red;
+    padding: 35px;
+}
+#p2
+{
+    color: white;
+}
+#p
+{
+    color: red;
+}
+#ana
+{
+float: right;
+width: auto;
+height: 180px;
+}
+#music
+{
+    float: left;
+    padding: 45px;
+    padding-top: 2px;
+}
+#picture
+{
+    width: 300px;
+    height:300px;
+    float: right;
+}
