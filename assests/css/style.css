@@ -9,8 +9,8 @@ body
 #p1
 {
     color: white;
-    border: solid red;
     float: left;
+    opacity: 0.5;
 }
 .form-control
 {
@@ -71,4 +71,11 @@ body
     right: 0;
     position:fixed;
     text-align: center;
+}
+#container
+{
+    border: radiu 10px;
+    background-color: grey;
+     opacity: 0.8;
+     width: 1020px;
 }
