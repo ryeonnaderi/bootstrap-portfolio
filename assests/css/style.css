@@ -27,11 +27,6 @@ body
 {
     margin-left: 20%;
 }
-.pictures
-{
-    /* height: auto; */
-    /* width: auto; */
-}
 .ana
 {
     width: 220px;
@@ -79,3 +74,11 @@ body
      opacity: 0.8;
      width: 1020px;
 }
+@media only screen and (max-width: 600px){
+    body 
+    {
+        width: 130px;    
+        height: 120px;    
+    }    
+}
+
